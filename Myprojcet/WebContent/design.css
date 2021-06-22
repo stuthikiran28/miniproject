@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+body{
+	
+	color:white;
+	background-image:url('images/pngtree.jpg');
+	background-repeat: no-repeat;
+	 background-size: 100%;
+}
+
+table {
+  border-collapse:collapse;
+   
+  color:white;
+}
+th, td {
+  padding: 15px;
+}
